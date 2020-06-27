@@ -13,6 +13,10 @@ library(raster)
 library(reshape2)
 library(sp)
 
+
+#Import run_EPIC_util.R
+source("/Path/to/run_EPIC_util.R")
+
 #Import any user-defined libraries if required. 
 source("Path/to/User Defined lib")
 
